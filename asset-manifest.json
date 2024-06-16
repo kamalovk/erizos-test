@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/erizos-test/static/css/main.78c8692a.css",
+    "main.js": "/erizos-test/static/js/main.b8fff161.js",
+    "index.html": "/erizos-test/index.html",
+    "main.78c8692a.css.map": "/erizos-test/static/css/main.78c8692a.css.map",
+    "main.b8fff161.js.map": "/erizos-test/static/js/main.b8fff161.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78c8692a.css",
+    "static/js/main.b8fff161.js"
+  ]
+}
