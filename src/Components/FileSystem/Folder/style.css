@@ -1,0 +1,15 @@
+.folder {
+  margin-left: 20px;
+}
+
+.folder-header {
+  cursor: pointer;
+}
+
+.folder .arrow {
+  margin-left: 5px;
+}
+
+.folder-content {
+  margin-left: 20px;
+}
